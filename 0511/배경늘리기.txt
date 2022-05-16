@@ -1,0 +1,14 @@
+< 배경 늘리기 >
+- content aware fill -
+1. background 레이어 열쇠 풀기
+2. crop 도구 선택후 양쪽을 늘린다
+3. 사각선택도구로 양쪽 여백을 모두 선택한다 ( shift키 사용 )
+4. edit 메뉴 content aware fill 클릭
+5. alt 키를 누른 상태로 이미지를 모두 칠한다
+6. ctrl + e ( 레이어 합치기 )
+
+- content aware scale -
+* 사진을 비율에 맞게 늘린다 ( 한 쪽 방향으로만 된다 )
+위와 동일
+edit 메뉴 content aware scale 클릭
+

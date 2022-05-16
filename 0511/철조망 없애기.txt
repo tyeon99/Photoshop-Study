@@ -1,0 +1,8 @@
+< 철망 없애기 >
+1. open
+2. new layer
+3. 브러쉬 도구로 철망을 그려준다
+4. background layer 선택
+5. 철망 눈 끄기
+6. ctrl키를 누른상태로 철망 레이어 선택 ( 철망이 점선으로 나타난다 ) 
+7. edit - content aware fill 클릭
