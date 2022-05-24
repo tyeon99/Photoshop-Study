@@ -1,0 +1,5 @@
+> 여러 이미지 액자 만들기 <
+
+1. 이미지 크기조정
+2. file - automate - contact shit II
+3. 액자 크기 조정 caption 체크 해제
