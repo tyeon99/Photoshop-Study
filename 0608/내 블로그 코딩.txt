@@ -1,0 +1,81 @@
+위젯1
+- 빈공간 85
+<div style="height: 85px;">&nbsp;</div>
+
+위젯2
+- 링크 85
+<a href="https://blog.naver.com/xodus170" style="width: 80px; height: 85px; text-decoration: none; display: inline-block;" title= "sbs" target="_blank">&nbsp;</a>
+<a href="https://blog.naver.com/xodus170" style="width: 80px; height: 85px; text-decoration: none; display: inline-block;" title= "mbc" target="_blank">&nbsp;</a>
+
+위젯3
+-빈공간 85
+<div style="height: 85px;">&nbsp;</div>
+
+위젯4
+- 링크 85
+<a href="https://blog.naver.com/xodus170" style="width: 80px; height: 85px; text-decoration: none; display: inline-block;" title= "netflix" target="_blank">&nbsp;</a>
+<a href="https://blog.naver.com/xodus170" style="width: 80px; height: 85px; text-decoration: none; display: inline-block;" title= "tving" target="_blank">&nbsp;</a>
+
+위젯5
+- 빈공간 85
+<div style="height: 85px;">&nbsp;</div>
+
+---------------------------------------------------------------------------------------
+
+위젯6
+- 빈공간 505
+<div style="height: 505px;">&nbsp;</div>
+
+위젯7
+- 빈공간 505
+<div style="height: 505px;">&nbsp;</div>
+
+위젯8
+- 빈공간 505
+<div style="height: 505px;">&nbsp;</div>
+
+위젯9
+- 빈공간 505
+<div style="height: 505px;">&nbsp;</div>
+
+위젯10
+- 빈공간 505
+<div style="height: 505px;">&nbsp;</div>
+
+-----------------------------------------------------------------------------------------
+
+위젯11
+- 링크 85
+<a href="https://blog.naver.com/xodus170" style="width: 80px; height: 85px; text-decoration: none; display: inline-block;" title= "kbs" target="_blank">&nbsp;</a>
+<a href="https://blog.naver.com/xodus170" style="width: 80px; height: 85px; text-decoration: none; display: inline-block;" title= "jtbc" target="_blank">&nbsp;</a>
+
+위젯12
+- 빈공간 85
+<div style="height: 85px;">&nbsp;</div>
+
+위젯13
+- 링크 85
+<a href="https://blog.naver.com/xodus170" style="width: 80px; height: 85px; text-decoration: none; display: inline-block;" title= "tvn" target="_blank">&nbsp;</a>
+<a href="https://blog.naver.com/xodus170" style="width: 80px; height: 85px; text-decoration: none; display: inline-block;" title= "ocn" target="_blank">&nbsp;</a>
+
+위젯14
+- 빈공간 85
+<div style="height: 85px;">&nbsp;</div>
+
+위젯15
+- 링크 85
+<a href="https://blog.naver.com/xodus170" style="width: 80px; height: 85px; text-decoration: none; display: inline-block;" title: "facebook" target="_blank">&nbsp;</a>
+<a href="https://blog.naver.com/xodus170" style="width: 80px; height: 85px; text-decoration: none; display: inline-block;" title: "instagram" target="_blank">&nbsp;</a>
+
+------------------------------------------------------------------------------------------
+
+위젯16
+<div style="height: 200px;">&nbsp;</div>
+
+위젯17
+
+위젯18
+
+위젯19
+
+위젯20
