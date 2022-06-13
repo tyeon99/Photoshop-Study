@@ -1,0 +1,14 @@
+> 이미지 합성 <
+
+1. 사진 2장 고르기
+2. 이식할 사진의 얼굴을 라소로 선택(부드럽게)
+3. ctrl + c 복사
+4. 창 닫기
+5. ctrl + v ctrl + t , 투명도 조절 후 위치 크기 조절
+6. background layer 선택후 열쇠 해제
+7. ctrl를 누른 상태로 레이어 1번 클릭 (점선으로 나타남)
+8. select 메뉴 - modify - contract
+9. delete 클릭
+10. ctrl + d
+11. shift키 누른상태로 레이어 두 개 선택
+12. edit - auto-blend layer
