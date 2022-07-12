@@ -1,0 +1,420 @@
+*모든 프로그램 금기: 
+ 한글 No, Caps Lock키 No
+*Alt : 반대로,(=중심) /복사
+*Shift : 추가,정비율 똑바로 (캐드 제외)
+*Ctrl : 기본 단축키 
+     (Ctrl C,  Ctrl V,  Ctrl S, Ctrl O, Ctrl P,  Ctrl Z .....)
+        복사  붙여넣기  저장   열기   출력  돌아가기....
+
+-------1-화면 다루기--------
+▶작업환경 초기화: window메뉴 workspace(작업공간)>Reset하세요.
+
+▶실행방식:메뉴/툴박스/단축행동   
+▶Ctrl Tab키: 파일순환보기(Tab:툴안보기)
+▶F :풀스크린→제목탭안보기→사진만보기
+▶Ctrl K :환경조정창
+
+▶도화지 꽉 채워보기:Ctrl 0
+▶100%실제크기보기:Ctrl 1
+
+▶Ctrl+확대/Ctrl-축소(단점:초점중앙)
+▶Alt+휠:초점이바뀌면서(=Zoom)
+▶화면이동: Space Bar(=Hand)
+---포토샵=레어어 97% 
+
+
+
+
+
+
+
+
+--2단원--Layer & Move ---
+▶V :이동툴 [체크: AutoSelect/Show Transform] (Alt=복제)
+▶방향키:미세조정키 1px씩 이동/ Shift=10px씩 이동)
+
+▶레이어 순서바꾸기(드래그로가능
+  -Ctrl [ , ]   한칸씩 아래, 위로~
+  -Ctrl Shift [ , ] "맨"아래, 맨위로~
+
+▶복제 방법들
+1.Duplicate: 딴 파일로도 복제(통채로)
+2.Ctrl J:(선택부분)제자리에 복제  
+3.V로 딴 파일로 드래그 복제
+4.Alt 드래그: 움직이며 복제
+5.Ctrl C:복사→ Ctrl V:붙여넣기
+
+▶L :올가미 선택툴[Sht:합/Alt:차/Sht+Alt:교집합]
+▶Ctrl D :선택 풀기
+▶Ctrl G:그룹(폴더모양)↔Ctrl Shift G
+
+
+		
+
+
+
+
+---03-Selection:선택영역잡기 -----
+1.M : 사각/원형 선택툴
+2.L : 올가미/폴리곤/자석 선택툴
+3.W: 고전: 마술봉(색범위로선택)
+4.W: 최근: Quick Select :빠른선택
+    1.Select subject(타겟자동선택) 후
+    2. Select & Mask(다듬기)(Ctrl Alt R)에서
+    3. 다듬기 순서:Smart→수동터치 →잡티제거:ok또는 New Layer로 종료)
+5.Color Range: 색상범위조정(메뉴select에 있음)
+6.Q: 퀵 마스크(Brush로 색칠해서 선택하기-단점:오래걸림)
+
+▶선택해제: Ctrl D   ▶Ctrl Z: 과거로가기
+▶드래그도중:Shift=정비율,Alt=중심부터
+▶Ctrl Shift I :선택영역 반전inverse
+▶Ctrl I : "색" 반전
+▶Ctrl J :(제자리)복사  copy
+▶Ctrl Shift J:(제자리)오려내기 cut
+
+
+
+
+
+
+---04 색상 Color , Gradient---
+▶ I : 색상 추출 eyedorper
+▶G :radient: 그라디언트(5가지)
+▶색 채우기(투명배경잠금 처리 후)
+  -Alt+Delet :전경색 채우기
+  -Ctrl+Delet :배경색 채우기
+
+▶Ctrl Shift N:새레이어=Alt+새아이콘
+▶Ctrl Alt C: Canvas(도화지)넓히기(주의!!잠금풀고사용:배경색으로채워져버림)
+▶Ctrl R : 자 (안내선)
+
+▶정렬(위치.간격) :V로 여러개선택후 윗쪽 옵션바에 자동으로 뜸
+
+
+
+
+
+	
+
+
+
+---05-변형  Transfrom--
+▶ Ctrl T = V툴 Show Tranfrom 첵
+<<<주의 CC19버전부터는 자동 정비율>>>>
+ -Ctrl :한꼭지점왜곡 Distort 
+ -Ctrl :중간점=기울기 Skew
+ -Shift : 정비율 안하기
+ -Alt : 중심부터
+ -Ctrl+Alt :사다리꼴 
+ -Ctrl+Alt+Shift:마름모
+ -Flip : 뒤집기(우버튼)
+-Warp:(버튼) 곡면왜곡
+
+▶흐리게 효과:Filter메뉴
+   Blur> Gaussian Blur
+▶Ctrl R :자 (안내선 뽑기)
+▶C :Crop: 도화지 자르기
+
+▶Ctrl +썸넬클릭=Select하기
+
+
+
+ 
+
+
+---06 Brush------
+▶B :브러쉬↔*E:Erase지우개
+▶F5:브러시Setting창
+
+▶크기조정:
+   1.줄이기 [ ↔ 키우기 ] 대괄호
+ =2.Alt+우버튼 좌우로 드래그
+ =3.우버튼클릭하여 창에서 조정
+
+▶경도조정
+ 1.Shift+[  ↔Shift+] 25%씩 
+ 2.Alt + 우버튼 상하 드래그
+ 3.우버튼클릭하여 창에서 조정
+
+▶브러시 등록: Edit>Define Brush 
+ (흰색은 투명처리되어 등록불가)
+
+▶브러시 Save/Load 
+  브러시패널옵션에서 Prestmanager창
+
+*Ctrl J :제자리복사로 진하게 할수 있음
+*Ctrl E :선택레이어 합치기
+
+**(조정가능)흑백:Ctrl Alt Shift B
+**색 채도 밝기:Ctrl U
+**대비조정 : Ctrl L  Level
+
+
+
+
+
+---07  Type-----
+▶문자쓰기 3종류 :  T 
+ 1. 일반문자: 클릭으로 시작
+ 2. 영역문자: 도형 안에 클릭 or 드래그
+ 3. 패스문자: 도형 테두리 클릭
+    패스방향 뒤집기=A키(Path선택툴) 
+     
+▶글자왜곡 : Warp 창 :15가지모양
+
+▶ 문자의 변신 3종류
+ 1.Rasterize :이미지화(지우기가능)
+ 2.Path :경로(선):면,선에 활용
+ 3.Shape :도형으로:A로 모양 편집
+
+▶Ctrl K: 환경조정창 <Type>Show Font name in English(끄면 한글이름보기)	
+
+*Ctrl Alt I :이미지 싸이즈
+*Ctrl Alt C :도화지 싸이즈(자물쇠 해제하고 하세요)
+
+
+
+
+--08 Shape (도형=일러물체)---
+▶U : Shape(색변경=썸네일더블클릭)
+ (합:Shift/차:Alt/교집합:Shift+Alt)
+
+▶도형 편집: A
+   -검정:전체선택툴(Path)
+   -흰색:부분선택툴(Direct)(점,선,면,핸들을 부분적으로 직접선택)
+
+▶Shape 등록: Edit메뉴>Define Shape (픽셀은 등록 불가/선Path이어야가능)
+
+*도형→일반픽셀물체화:Resterize 
+
+*선택한 레이어 합치기 : Ctrl E 
+*레이어 분리 : Ctrl Shift J
+*레이어 복제 : Ctrl J
+
+
+
+
+
+
+---09 Pen(깔끔한path따기가 목적)---
+▶P : 펜(클릭=직선/ 드래그=곡선)
+(작업도중 Alt=핸들조정/Ctrl=점조정)
+ ⊙점 추가    ⊙점 빼기 
+ ⊙핸들 convert: 직선↔곡선 변환
+
+▶save path: 떠블클릭하여 이름을 고쳐 저장하기
+
+▶패스 편집: A
+   -검정:전체선택툴(Path)
+   -흰색:부분선택툴(Direct)(점,선,면,핸들을 부분적으로 직접선택)
+
+▶패스를 선택영역으로 만들기
+①아래쪽 Selection버튼
+②Path:우버튼: Make Work Path
+③썸네일+Ctrl 클릭=Selection
+
+
+
+--10 Adjusment-색 보정-22가지---
+1. 대비조정
+ -Ctrl L: Level    -Ctrl M: curve
+2. 색상조정
+ -Ctrl U:색/채도/밝기  
+ -Ctrl Shift Alt B:(조정가능)흑백
+ -Ctrl B :색 균형
+3. 색 특이효과들 
+ -Ctrl I :색 반전  -"그라디언트""맵"",
+ -포스터-트레숄드(한계)-특정색조정
+4. 음영 조정 
+ -Shadowse/Highlight 
+ -HDR toning(주의:레이어합쳐짐)
+5. 색바꾸기
+ -Ctrl Shift U:채도빼기(회색화) 
+ -색상일치 -색상대체 -명도균일화
+
+
+
+---11 Healing-(주변과 섞임)---
+▶J : 스팟/힐링/패치:주변과 자동으로 톤이 맞춰지며 섞임
+▶S: 도장/방법은 힐링과 같으며 주변과 섞이지 않음
+
+▶O: Dodge 화사하게↔▶Burn 어둡게
+▶Sponge 채도 
+  
+▶Blur흐리게↔▶Sharpen 선명하게
+▶Smuge 문지르기 
+
+*Ctrl Alt C: Canvas Size조정
+*C:Crop  도화지자르기
+(바로세우기:빽모양아이콘:Straigthen)
+
+
+
+
+
+
+
+---12-Liquify ---
+1.Ctrl Shift X: 액화 수정법(성형)
+  :face 인식기능(낮은버젼에 없음)
+
+2.Shift F5=Fill창: Content Aware 
+ =spot<Heaing,patch주변내용 채우기
+
+3.Ctrl Alt Shift C :
+    Content Aware scale 
+    :주변내용인식하며 크기조정
+(주변과 색차이가 확실할 경우 선택영역 저장 없이도 됨)
+
+4.Puppet warp :(꼭두각시) 왜곡   
+
+**Resterize : 픽셀로된 일반 이미지
+**Smart : 원본은 보호되고 
+    사용한 효과들은 밑에 기록됨
+
+
+
+
+----13 Clipping Mask----
+▶목적: 원본보호
+▶원리:아래쪽 레이어에 쏙빠져 잘려 보이기
+▶방법: Ctrl Atl G=Alt+경계선클릭
+
+*NewGuid : 정확하게 안내선지정
+*Ctrl Shift J:레이어 제자리 분리
+
+---14 Layer Mask --------
+▶목적: 원본보호
+
+▶원리: {검정=안보임/회색=반투명/흰색=보임}
+
+▶방법: "네모안에 원" 아이콘  
+-Shift 클릭:원본만 보기
+-Alt 클릭 : 마스크만 보기
+-Ctrl 클릭 : select하기
+-특성창 : Feather 부드럽기 244p 
+-링크풀기: 각각 조정하기
+
+*과제 배경색= Gradient :in=737479a→out=56595f
+*과제 font : BebasNeue글꼴
+
+
+
+
+--15 "Blending" Mode (26가지)---
+위쪽레이어를 아래쪽레이어와 "섞기"
+1.Dissolve :투명정도에 따른 노이즈화
+2.어둡게:Darken, "Multiply" :50%명도기준 어두운쪽만 남김(5단계)
+3.밝게:Lighten, "Screen" :50%명도기준 밝은쪽만 남김(5단계)
+4.대비:Overlay,"SoftLight" :50%명도기준 진한쪽만 남김(7단계)
+5.보색:Difference,"Excrusion" :색상환표상 반대편색으로 합성(4단계)
+6.색,채도,색상(색+채도),명도 합성(4단계)
+
+*배경색 :770d0d 검붉은색
+
+
+
+
+---16  Filter 효과--------
+▶▶Smart Object 화 :원본보호
+     기록도 남고/옵션재조정 /마스크됨/자체 블랜딩됨.
+▶필터 갤러리: 6파트(몇십개) 
+▶Blur흐림/
+▶Blur흐림효과 갤러리/
+▶Distort 왜곡/
+▶Noise(노이즈,잡티)/
+▶Pixelate(픽셀화)/
+▶Render(랜더,자연현상)/
+▶Sharpen(선명)/
+▶Style(스타일화,각종특이효과)/
+▶Other(기타등등)
+
+
+**Ctrl Alt I :Image Size
+**Ctrl Alt F : 방금전 필터 반복
+
+
+
+
+---17 Adjust Layer----
+"검정 흰색 반반 아이콘"
+(짬짜면그릇 모양처럼 생긴 이유)
+▶반은▶ New Fill  (solid,Gradient,Pattern)
+▶반은▶ Adjust 조정레이어 (Level, Hue 등 16가지...) 
+:"레이어+마스크"로 생성됨
+→원본보호,재조정,레이어마스크,클리핑마스크,합성 등이 가능함. 
+
+**Place : 삽입
+
+배경색 #1599bf
+..................................................
+*Ctrl J : 레이어 복제 
+*Ctrl Shift J : 레이어 "분리"
+*Ctrl E :선택레이어 합치기
+*Ctrl Alt E:원본놔두고 합치기
+*Ctrl Shift E:눈뜬 레이어 합치기
+*Ctrl Shift Alt E:눈뜬 레이어 원본놔두고 합치기
+..................................................
+
+
+
+
+--18 Layer Style-----
+▶Effect=fx=효과 10가지 종류
+1.깍고 볼록 효과  2.테두리
+3.안쪽 그림자     4.안으로 빛
+5.스테인(얼룩)    6.색 덧쓰기
+7.그라디언트      8.패턴 덧쓰기
+9.밖으로 빛    10.그림자 덧쓰기
+
+▶일반이미지로 변경:Resterize LyerStyle
+
+*과제 글꼴 :neon one  다운후 설치=더블클릭 
+*과제 배경색 :# 27264e 어두운 보라
+*과제 글자색 :# e0cbff  연 밝은 보라
+
+
+
+
+
+--19 Channel(반투명선택시 용이함)--
+▶채널: 이미지의 색상정보 
+▶알파(추가)채널 활용법
+ :가장 대비 뚜렷한 채널을 복제 후 
+  원하는대로 선택영역(흰색) 다듬기
+ -Ctrl I, Ctrl L, Ctrl M, Brush...등으로 다듬기,
+ -Select메뉴>contract축소 등으로 잡티제거
+ 
+▶다양한 Selection 방법들
+1.Cennel : 검정흰색으로 선택
+2.magic wand : w :마술봉, 유사색 선택
+3.Quic select :W : 자동 빠른선택
+  (selec subject + selec & mask) 
+   대상자동선택 +다듬기
+4.Color Range:색상범위로 조정하여 선택
+
+
+
+
+----20 종합연습문제 ---
+214 p그동안 배운 툴로 완성해보세요
+--------------------------
+
+
+-----기타------------------------
+*포토샵 한글을 영문으로 
+C/program files/adobe photoshop cc ~/locales/ko kr/support files/tw로 
+시작되는 파일을 바탕화면에 드래그하면 되요~
+
+한글로 바꿀려면 바탕 화면에서 다시 tw파일을 갖고온 자리에 넣으시면 되요~~
+
+*한국생산성 본부 시험 싸이트 license.kpc.or.kr/
+→자료실 →기출/샘플→종목 에서 GTQ 검색→1급 다운로드
+
+
+
+
+
+
+
+
