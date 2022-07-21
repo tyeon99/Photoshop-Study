@@ -1,0 +1,51 @@
+인트로페이지(인물+자연)woman_tree
+
+
+
+▶일반 픽셀물체화 : Reterize  
+
+▶비네팅효과: 가장자리는 짙고 어둡게 중앙은 밝게 강조 효과
+
+    1. Adjust Layer의  Levle 어둡고 짙게
+
+    2 . fx :inner shadow 사용후 Fill 값을 빼주기
+
+    3. New Fill 에서 레이어마스크 Feather 주기 등등..
+
+
+
+▶그룹 -> 스마트화 
+
+
+
+▶Ctrl R : 자 
+
+▶Ctrl H : 안내선 잠시 숨기기
+
+
+
+▶ Layer Style창의 Blending options 패널에서 Blend if 중 R.G.B 합성 
+
+    (위는 현재레이어/아래는 아래 레이어, Alt+조정하면 버튼 분리)
+
+▶ 레벨 or 커브 창에서 R.G.B 합성
+
+
+
+▶Opacity:(효과까지,blend상관없이) 전체 투명화 
+
+▶Fill : (효과남고) 진짜 색만 빼기. blend 사용시 섞이며 투명화
+
+  
+
+▶Ctrl J : 제자리 복사
+
+▶Ctrl Shift J:제자리 오리기
+
+▶Ctrl E : 선택한레이어끼리 합치기
+
+▶Ctrl Alt E:선택한레이어는 놔두고 합친 복사본 생성
+
+▶Ctrl Shift E:눈뜬레이어 전체 합치기
+
+▶Ctrl Shift Alt E:눈뜬레이어 전체를 합친 복사본 생성
